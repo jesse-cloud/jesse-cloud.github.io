@@ -1,12 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome Jesse's Page!  
 
-You can use the [editor on GitHub](https://github.com/jesse-cloud/jesse-cloud.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is my GitHub page for my schoolwork in Data Mining at The George Washington University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[My first project](https://github.com/jesse-cloud/DATS-6103---Individual-Project-2---Jesse-Liu) is Analyzing Child HIV Prevalence Across Nine Different Countries of High HIV Prevalence, detailed below. 
 
-### Markdown
+### DATS 6103 - Individual Project 2: Analyzing Child HIV Prevalence Across Nine Different Countries of High HIV Prevalence
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The purpose of this project is to analyze the prevalence of HIV-AIDS in children in different countries around the globe. In addition, healthcare spending per capita in USD will be compared to the prevalence of HIV-AIDS in children.  
+
+**Details of the project:**
+- Datasets used: "Key HIV epidemiology indicators for children and adolescents aged 0-19, 2000-2019" via [UNICEF](https://data.unicef.org/topic/hivaids/global-regional-trends/) & "Worldbank Healthcare Expenditure per Capita (Current US$) Dataset" via [World Bank](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD)
+
+- Countries with the highest prevalence of children (children 0-14 years old) living with HIV were chosen from three main regions: Africa, Asia, and South America. These countries are Nigeria, Kenya, Ethiopia, Mozambique, Myanmar, Haiti, Pakistan, Philippines, and Venezuela.
+
+- Time period: 2010-2017
+
+- Specific datasets analyzed: 
+1. Estimated number of Annual AIDS- Related deaths globally (For all countries in the dataset)
+2. Total Estimated Number of Children Living with HIV-AIDS
+3. Annual New HIV Infections in Children
+4. Annual New HIV Infections in Children as a rate per 1000 uninfected children
+5. Healthcare spending per capita in USD
+
+The different datasets were created using python
 
 ```markdown
 Syntax highlighted code block
