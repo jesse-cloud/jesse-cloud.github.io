@@ -22,32 +22,18 @@ The purpose of this project is to analyze the prevalence of HIV-AIDS in children
 4. Annual New HIV Infections in Children as a rate per 1000 uninfected children
 5. Healthcare spending per capita in USD
 
-The different datasets were created using python
+The different datasets were created using python in Juypter Notebook. You can access the plots and figures via [Zenodo](https://zenodo.org/record/4266957)
 
-```markdown
-Syntax highlighted code block
+# Conclusions
 
-# Header 1
-## Header 2
-### Header 3
+1. In 2014, the National Health Bill was enacted in Nigeria to enact social health insurance, which transitioned health payments from private out-of-pocket to a national system where health care was free for select citizens. This actually lead to an increase in annual new HIV cases and HIV incidence rate.
 
-- Bulleted
-- List
+2. Kenya, Ethiopia, Mozambique, and Myanmar show decreases in new HIV cases with increase in Healthcare Spending per capita.
 
-1. Numbered
-2. List
+3. Pakistan shows an increase in healthcare spending per capita, but also an increase in new HIV cases in children. Pakistan has been criticized for insufficient healthcare protection for children.
 
-**Bold** and _Italic_ and `Code` text
+4. Venezuela's unique economic climate also presents a unique positive correlation between decrease in healthcare spending per capita and new HIV cases in children,.
 
-[Link](url) and ![Image](src)
-```
+5. While Philippines has increased healthcare spending per capita, an HIV-AIDS epidemic currently requires a need to address this issue through policy changes in healthcare spending.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jesse-cloud/jesse-cloud.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6. Each HIV-AIDS situation is unique and it is important to provide the proper context from different regions (in terms of healthcare spending) in order to properly address the HIV-AIDS crisis that is of particular threat during this COVID-19 Pandemic.
