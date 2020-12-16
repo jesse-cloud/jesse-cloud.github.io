@@ -20,7 +20,7 @@ Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instr
 
 - Time Period of data for Chronic Health Indicators: (Asthma: 2011-2018; Diabetes: 2011-2018; Chronic Kidney Disease: 2011-2018; Obesity: 2011-2018; Tobacco: 2011-2018; Alcohol: 2011-2018; Cardiovascular diseases: 2011-2017).
 
-- Specific Chronic Health Indicators and their topic categories analyzed:
+Specific Chronic Health Indicators and their topic categories analyzed:
 1. Asthma; Current asthma prevalence among adults aged >=18 years
 2. Diabetes; Prevalence of diagnosed diabetes among adults aged >=18 years
 3. Chronic Kidney Disease; Prevalence of chronic kidney disease among adults aged >=18 years
@@ -30,7 +30,7 @@ Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instr
 7. Cardiovascular Disease; Mortality from total cardiovascular diseases per 100,000
 
 
-- States Selected to be analyzed based on 2018 data:
+States Selected to be analyzed based on 2018 data:
 1. Asthma High Prevalence States (Maine: 12.3%, West Virginia 12.3%, Vermont: 12%); Asthma Low Prevalence States(Indiana: 7.9%, South Dakota: 7.9%, Texas: 7.4%)
 2. Diabetes High Prevalence States (West Virginia: 16.2%, Alabama: 14.5%, Mississippi: 14.3%); Diabetes Low Prevalence States(Massachussets: 8.6%, Utah:8.4%; Colorado: 7%)
 3. Chronic Kidney Disease High Prevalence States (West Virginia: 4.6%, Kentucky: 4.2%, Alabama: 4%); Chronic Kidney Disease Low Prevalence States(Colorado: 2.2%, Montana: 2%, Vermont 2%)
@@ -39,7 +39,7 @@ Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instr
 6. Heavy Alcohol Use High Prevalence States (Hawaii: 8.8%, Oregon: 8.5%, South Dakota: 8.5%); Heavy Alcohol Use Low Prevalence States(Oklahoma: 4.2%, West Virginia: 4.2%, Utah: 3.8&)
 7. Cardiovascular disease High Prevalence States (West Virginia: 358.1, Arkansas: 352.1, Alabama: 351.3); Cardiovascular disease High Prevalence States (Colorado: 174.3, Utah: 159.9, Alaska: 150.3)
 
-The different datasets were created using Google Spreadsheets, the figures were plotted using Google Visualization API through HTML. You can access the plots and figures via [Zenodo](https://zenodo.org/record/4323494)
+The different datasets were created using Google Spreadsheets, the figures were plotted using Google Visualization API through HTML. The plots and figures can be accessed via [Zenodo](https://zenodo.org/record/4323494)
 
 # Conclusions
 
