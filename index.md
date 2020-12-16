@@ -20,6 +20,10 @@ Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instr
 
 - Time Period of data for Chronic Health Indicators: (Asthma: 2011-2018; Diabetes: 2011-2018; Chronic Kidney Disease: 2011-2018; Obesity: 2011-2018; Tobacco: 2011-2018; Alcohol: 2011-2018; Cardiovascular diseases: 2011-2017).
 
+-States Selected to be analyzed based on 2018 data:
+1. Asthma High Prevalence States (); Asthma Low Prevalence States
+
+
 - Time period: 2010-2017
 
 - Specific datasets analyzed: 
