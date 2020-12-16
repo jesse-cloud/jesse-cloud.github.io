@@ -10,7 +10,7 @@ Project introduction: Chronic health indicators are measurements taken by the Ce
 
 Project Relevance: Chronic diseases have a substantial impact on one’s wellbeing, but also are high-risk factors for other diseases, such as SARS-CoV-2 (COVID-19). According to the CDC, risk for hospitalization compared to people without these conditions is significantly increased if you have Asthma (1.5x), Hypertension (3x), Obesity (3x), Diabetes (3x), Chronic Kidney Disease: (3x), Severe Obesity (4.5x), two conditions (4.5x), three or more conditions (5x). 
 
-Project Purpose and methodology: The purpose of this project is to analyze the trends in chronic health indicator data using data visualizations. For each chronic health indicator, the three states with the highest prevalence and three states with the lowest prevalence of each chronic health indicator were selected for the most recent year in the dataset. The chronic health data for these six states were then analyzed and compared using data visualizations. The chronic health indicators that were chosen are: Current asthma prevalence among adults aged >=19 years, Prevalence of diagnosed diabetes among adults aged >=18 years, Prevalence of chronic kidney disease among adults aged >=18 years, Overweight or obesity among adults aged >=18 years, Current smoking among adults aged >=18 years, Heavy drinking among adults aged >= 18 years, Mortality from total cardiovascular diseases.
+Project Purpose and methodology: The purpose of this project is to analyze the trends in chronic health indicator data using data visualizations. For each chronic health indicator, the three states with the highest prevalence and three states with the lowest prevalence of each chronic health indicator were selected for the most recent year in the dataset. The chronic health data for these six states were then analyzed and compared using data visualizations. The chronic health indicators that were chosen are: Current asthma prevalence among adults aged >=18 years, Prevalence of diagnosed diabetes among adults aged >=18 years, Prevalence of chronic kidney disease among adults aged >=18 years, Overweight or obesity among adults aged >=18 years, Current smoking among adults aged >=18 years, Heavy drinking among adults aged >= 18 years, Mortality from total cardiovascular diseases.
 
 Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instructor)
 
@@ -20,18 +20,24 @@ Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instr
 
 - Time Period of data for Chronic Health Indicators: (Asthma: 2011-2018; Diabetes: 2011-2018; Chronic Kidney Disease: 2011-2018; Obesity: 2011-2018; Tobacco: 2011-2018; Alcohol: 2011-2018; Cardiovascular diseases: 2011-2017).
 
--States Selected to be analyzed based on 2018 data:
-1. Asthma High Prevalence States (); Asthma Low Prevalence States
+- Specific Chronic Health Indicators and their topic categories analyzed:
+1. Asthma; Current asthma prevalence among adults aged >=18 years
+2. Diabetes; Prevalence of diagnosed diabetes among adults aged >=18 years
+3. Chronic Kidney Disease; Prevalence of chronic kidney disease among adults aged >=18 years
+4. Obesity; Overweight or obesity among adults aged >=18 years
+5. Tobacco; Current smoking among adults aged >=18 years
+6. Alcohol; Heavy drinking among adults aged >= 18 years
+7. Cardiovascular Disease; Mortality from total cardiovascular diseases per 100,000
 
 
-- Time period: 2010-2017
-
-- Specific datasets analyzed: 
-1. Estimated number of Annual AIDS- Related deaths globally (For all countries in the dataset)
-2. Total Estimated Number of Children Living with HIV-AIDS
-3. Annual New HIV Infections in Children
-4. Annual New HIV Infections in Children as a rate per 1000 uninfected children
-5. Healthcare spending per capita in USD
+- States Selected to be analyzed based on 2018 data:
+1. Asthma High Prevalence States (Maine: 12.3%, West Virginia 12.3%, Vermont: 12%); Asthma Low Prevalence States(Indiana: 7.9%, South Dakota: 7.9%, Texas: 7.4%)
+2. Diabetes High Prevalence States (West Virginia: 16.2%, Alabama: 14.5%, Mississippi: 14.3%); Diabetes Low Prevalence States(Massachussets: 8.6%, Utah:8.4%; Colorado: 7%)
+3. Chronic Kidney Disease High Prevalence States (West Virginia: 4.6%, Kentucky: 4.2%, Alabama: 4%); Chronic Kidney Disease Low Prevalence States(Colorado: 2.2%, Montana: 2%, Vermont 2%)
+4. Obesity High Prevalence States (Mississippi: 73.3%, West Virginia: 72%, North Dakota: 71%); Obesity Low Prevalence States(Vermont: 61.1%, Hawaii: 59.5%, Colorado: 58.9%)
+5. Tobacco Use High Prevalence States (West Virginia: 25.2%, Kentucky: 23.4%, Arkansas: 22.7%); Tobacco Use Low Prevalence States(Washington: 12%, California: 11.2%, Utah: 9%)
+6. Heavy Alcohol Use High Prevalence States (Hawaii: 8.8%, Oregon: 8.5%, South Dakota: 8.5%); Heavy Alcohol Use Low Prevalence States(Oklahoma: 4.2%, West Virginia: 4.2%, Utah: 3.8&)
+7. Cardiovascular disease High Prevalence States (West Virginia: 358.1, Arkansas: 352.1, Alabama: 351.3); Cardiovascular disease High Prevalence States (Colorado: 174.3, Utah: 159.9, Alaska: 150.3)
 
 The different datasets were created using python in Juypter Notebook. You can access the plots and figures via [Zenodo](https://zenodo.org/record/4266957)
 
