@@ -39,7 +39,7 @@ Project Acknowledgements: CDC (Dataset Provider), Dr. Nima Zahadat (Course Instr
 6. Heavy Alcohol Use High Prevalence States (Hawaii: 8.8%, Oregon: 8.5%, South Dakota: 8.5%); Heavy Alcohol Use Low Prevalence States(Oklahoma: 4.2%, West Virginia: 4.2%, Utah: 3.8&)
 7. Cardiovascular disease High Prevalence States (West Virginia: 358.1, Arkansas: 352.1, Alabama: 351.3); Cardiovascular disease High Prevalence States (Colorado: 174.3, Utah: 159.9, Alaska: 150.3)
 
-The different datasets were created using python in Juypter Notebook. You can access the plots and figures via [Zenodo](https://zenodo.org/record/4266957)
+The different datasets were created using Google Spreadsheets, the figures were plotted using Google Visualization API through HTML. You can access the plots and figures via [Zenodo](https://zenodo.org/record/4323494)
 
 # Conclusions
 
